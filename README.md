@@ -10,4 +10,4 @@ Free Code Camp is a San Francisco-based open sourced community for training full
 - Object Oriented and Functional Programming
 - Algorithms and Data Structures
 
-This repo contains all the algorithm challenges completed.
+This repo will contain all algorithm challenges completed. <i>Code transfer is still in progress</i>
