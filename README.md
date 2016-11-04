@@ -1,5 +1,7 @@
 # Free Code Camp Algorithms
 
+<img src="https://cdn-az.allevents.in/banners/0f3ff8a0e3325f4093216246eece7b17" height="60%" width="60%">
+
 Free Code Camp is a San Francisco-based open sourced community for training full-stack developers. The front end development certification required completing a dozen projects and showing an understanding and use of the following:
 
 - HTML5
