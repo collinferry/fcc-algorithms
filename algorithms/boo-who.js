@@ -5,7 +5,7 @@ function boo(bool) {
   } else {
     return false;
   }
-  
+
 }
 
 boo(null);
