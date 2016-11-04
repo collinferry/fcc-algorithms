@@ -12,4 +12,4 @@ Free Code Camp is a San Francisco-based open sourced community for training full
 
 I earned the front end dev certificate on 03/23/2016.
 
-This repo will contain all algorithm challenges completed. <i>Code transfer is still in progress</i>
+This repo contains all algorithm challenges completed. A full list of the challenges with links to intructions and live code can be found here: https://www.freecodecamp.com/collinferry
