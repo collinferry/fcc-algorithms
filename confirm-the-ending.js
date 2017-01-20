@@ -1,13 +1,7 @@
-function end(str, target) {
- 
-  var endLength = str.length - target.length;
-  var subString = str.substr(endLength);
-
-  if (subString == target) {
-    return true;
-  }
-  return false;
+function confirmEnding(str, target) {
+  
+  var ending = str.substr(str.length-target.length);
+  
+  if (ending == target) { return true; } else { return false; }
 
 }
-
-end("Bastian", "n");
