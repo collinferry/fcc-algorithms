@@ -1,12 +1,10 @@
-function repeat(str, num) {
-  var flatString = str;
-  if (num < 0) {
-    return "";
+function repeatStringNumTimes(str, num) {
+  var final = '';
+  
+  while (num > 0) {
+    final += str;
+    num--;
   }
-  for (a = 1; a < num; a++) {
-    str = str + flatString;
-  }
-  return str;
-}
 
-repeat("abc", 3);
+  return final;
+}
